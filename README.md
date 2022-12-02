@@ -1,6 +1,6 @@
-# flutterproject
+#Flutter-Menu-App
 
-A new Flutter project.
+The mini food menu application I developed while learning flutter  
 
 ## Getting Started
 
