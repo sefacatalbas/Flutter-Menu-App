@@ -1,7 +1,5 @@
 #Flutter-Menu-App
 
-The mini food menu application I developed while learning flutter  
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
